@@ -1,0 +1,271 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/logo.png",
+            "ascent": 6,
+            "height": 30,
+            "chars": [
+                "\u092A"
+            ]
+        },
+
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/emoji/smile.png",
+            "ascent": 9,
+            "height": 10,
+            "chars": [
+                "\u0D05"
+            ]
+        },
+        
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/emoji/party.png",
+            "ascent": 9,
+            "height": 10,
+            "chars": [
+                "\u0D07"
+            ]
+        },
+
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/emoji/sf.png",
+            "ascent": 9,
+            "height": 10,
+            "chars": [
+                "\u0D06"
+            ]
+        },
+        
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/emoji/brokeheart.png",
+            "ascent": 9,
+            "height": 10,
+            "chars": [
+                "\u0D08"
+            ]
+        },
+
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/emoji/heart.png",
+            "ascent": 9,
+            "height": 10,
+            "chars": [
+                "\u0D09"
+            ]
+        },
+
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/emoji/boom.png",
+            "ascent": 9,
+            "height": 10,
+            "chars": [
+                "\u0D0A"
+            ]
+        },
+        
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/emoji/cold.png",
+            "ascent": 9,
+            "height": 10,
+            "chars": [
+                "\u0D0B"
+            ]
+        },
+
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/emoji/hot.png",
+            "ascent": 9,
+            "height": 10,
+            "chars": [
+                "\u0D0C"
+            ]
+        },
+        
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/emoji/hearts.png",
+            "ascent": 9,
+            "height": 10,
+            "chars": [
+                "\u0D0E"
+            ]
+        },
+
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/emoji/hmmm.png",
+            "ascent": 9,
+            "height": 10,
+            "chars": [
+                "\u0D0F"
+            ]
+        },
+
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/emoji/kiss.png",
+            "ascent": 9,
+            "height": 10,
+            "chars": [
+                "\u0D10"
+            ]
+        },
+        
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/emoji/mask.png",
+            "ascent": 9,
+            "height": 10,
+            "chars": [
+                "\u0D12"
+            ]
+        },
+
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/emoji/opps.png",
+            "ascent": 9,
+            "height": 10,
+            "chars": [
+                "\u0D13"
+            ]
+        },
+        
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/emoji/relax.png",
+            "ascent": 9,
+            "height": 10,
+            "chars": [
+                "\u0D14"
+            ]
+        },
+
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/emoji/sick.png",
+            "ascent": 9,
+            "height": 10,
+            "chars": [
+                "\u0D15"
+            ]
+        },
+
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/emoji/smile2.png",
+            "ascent": 9,
+            "height": 10,
+            "chars": [
+                "\u0D16"
+            ]
+        },
+
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/emoji/spread.png",
+            "ascent": 9,
+            "height": 10,
+            "chars": [
+                "\u0D17"
+            ]
+        },
+        
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/emoji/star.png",
+            "ascent": 9,
+            "height": 10,
+            "chars": [
+                "\u0D18"
+            ]
+        },
+
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/emoji/top.png",
+            "ascent": 9,
+            "height": 10,
+            "chars": [
+                "\u0D19"
+            ]
+        },
+        
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/emoji/warning.png",
+            "ascent": 9,
+            "height": 10,
+            "chars": [
+                "\u0D1A"
+            ]
+        },
+
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/emoji/what.png",
+            "ascent": 9,
+            "height": 10,
+            "chars": [
+                "\u0D1B"
+            ]
+        },
+
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/emoji/like.png",
+            "ascent": 9,
+            "height": 10,
+            "chars": [
+                "\u0D1C"
+            ]
+        },
+
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/emoji/dislike.png",
+            "ascent": 9,
+            "height": 10,
+            "chars": [
+                "\u0D1D"
+            ]
+        }
+    ]
+}
+
+#Логотип - प
+
+#Все - അഇആഈഉഊഋഌഎഏഐഒഓഔകഖഗഘങചഛജഝ
+
+#Улыбка - അ
+#Праздник - ഇ
+#Логотип Федерации улыбок (смайлик) - ആ
+#Сломанное сердце - ഈ
+#Сердце - ഉ
+#Бум в башке - ഊ
+#Замёрз - ഋ
+#Жарко - ഌ
+#Сердечки в глазах - എ
+#Думает - ഏ
+#Целует - ഐ
+#В очках - ഒ
+#Упс - ഓ
+#Релакс - ഔ
+#Сумасшедший - ക
+#Краснеет и улыбается - ഖ
+#Разводит руками - ഗ
+#Звезда - ഘ
+#Смотрит вправо - ങ
+#Предупреждение - ച
+#Непонимает - ഛ
+#Лайк - ജ
+#Дизлайк - ഝ
