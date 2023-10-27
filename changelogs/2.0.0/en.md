@@ -1,4 +1,4 @@
-#Lazursk: Second Season
+<h1>Lazursk: Second Season<\h1>
 
 ##Resource-pack changeLog
 
