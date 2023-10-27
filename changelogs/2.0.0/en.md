@@ -1,6 +1,6 @@
-<h1>Lazursk: Second Season<\h1>
+<h1>Lazursk: Second Season</h1>
 
-##Resource-pack changeLog
+<h2>Resource-pack changelog</h2>
 
 Added emotions in chat
 Added new loading screen and Minecraft logo
