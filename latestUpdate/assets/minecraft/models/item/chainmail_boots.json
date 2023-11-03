@@ -1,0 +1,9 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+      "layer0": "minecraft:item/chainmail_boots"
+    },
+    "overrides": [
+     {"predicate": {"custom_model_data":100030}, "model": "item/chainmail_boots_ge"}
+     ]
+}

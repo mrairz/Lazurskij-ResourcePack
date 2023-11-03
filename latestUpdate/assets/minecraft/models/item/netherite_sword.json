@@ -1,0 +1,11 @@
+{
+    "parent": "minecraft:item/handheld",
+    "textures": {
+      "layer0": "minecraft:item/netherite_sword"
+    },
+    "overrides": [
+     {"predicate": {"custom_model_data":100005}, "model": "item/ancient_blade"},
+     {"predicate": {"custom_model_data":100022}, "model": "item/ancient_blade_cooldown"}
+     ]
+}
+  

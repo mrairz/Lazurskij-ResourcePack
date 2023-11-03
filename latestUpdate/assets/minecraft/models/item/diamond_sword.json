@@ -1,0 +1,11 @@
+{
+    "parent": "minecraft:item/handheld",
+    "textures": {
+      "layer0": "minecraft:item/diamond_sword"
+    },
+    "overrides": [
+     {"predicate": {"custom_model_data":100019}, "model": "item/candy_cane"},
+     {"predicate": {"custom_model_data":100020}, "model": "item/cursed_candy_cane"}
+     ]
+}
+  

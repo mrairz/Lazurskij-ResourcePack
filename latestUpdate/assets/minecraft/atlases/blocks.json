@@ -2,8 +2,8 @@
     "sources": [
         {
             "type": "directory",
-            "source": "all",
-            "prefix": "all/"
+            "source": "items",
+            "prefix": "items/"
         }
     ]
 }

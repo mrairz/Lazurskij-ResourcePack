@@ -1,0 +1,10 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+      "layer0": "minecraft:item/diamond_boots"
+    },
+    "overrides": [
+     {"predicate": {"custom_model_data":100032}, "model": "item/diamond_boots_ge"}
+     ]
+}
+  

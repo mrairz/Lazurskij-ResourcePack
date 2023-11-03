@@ -1,0 +1,10 @@
+
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+      "layer0": "minecraft:item/iron_boots"
+    },
+    "overrides": [
+     {"predicate": {"custom_model_data":100029}, "model": "item/iron_boots_ge"}
+     ]
+}

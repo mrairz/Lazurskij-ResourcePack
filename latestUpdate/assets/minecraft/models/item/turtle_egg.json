@@ -1,0 +1,14 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+      "layer0": "minecraft:item/turtle_egg"
+    },
+    "overrides": [
+     {"predicate": {"custom_model_data":100023}, "model": "item/easter_egg_green"},
+	 {"predicate": {"custom_model_data":100024}, "model": "item/easter_egg_blue"},
+     {"predicate": {"custom_model_data":100025}, "model": "item/easter_egg_red"},
+     {"predicate": {"custom_model_data":100026}, "model": "item/easter_egg_orange"},
+	 {"predicate": {"custom_model_data":100027}, "model": "item/easter_egg_purple"},
+	 {"predicate": {"custom_model_data":100028}, "model": "item/easter_egg_gold"}
+     ]
+}
